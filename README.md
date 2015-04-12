@@ -1,4 +1,4 @@
-# JavaScript Style Guide() {
+# JavaScript Style Guide
 
 *The official JavaScript style guide for MEAN Camp. Forked from AirBnB*
 
@@ -1503,5 +1503,3 @@
     ```
 
 **[⬆ back to top](#table-of-contents)**
-
-# };
